@@ -3,4 +3,4 @@ Unreal Engine Sun Temple, Open Research Content Archive (ORCA), http://developer
 CyberPunk City by art-equilibrium, https://www.cgtrader.com/3d-models/exterior/sci-fi/cyberpunk-city-a6739cf2-3acf-4722-97e2-ff53d9a7bb7e
 Cyberpunk - Cyber Girl by ILranch, https://www.cgtrader.com/3d-models/character/sci-fi/cyber-girl-4994cf5f-9592-42ae-b2bb-47b3eba163c5
 Robot R32 by ZeroArt3d, https://www.cgtrader.com/3d-models/character/sci-fi/robot-r32
-Sponza Atrium glTF conversion by Crytek & &Themaister, http://themaister.net/sponza-gltf-pbr
+Sponza Atrium glTF conversion by Crytek & Themaister, http://themaister.net/sponza-gltf-pbr
